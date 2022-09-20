@@ -1,0 +1,305 @@
+.opening 
+{
+    width: 100vw;
+    position: absolute;
+    top: 0%;
+    left: 0;
+    height: 100vh;
+    text-align: center;
+    margin: 0px;
+    z-index: 0;
+    background-color: rgb(101, 232, 255);
+}
+
+.ssn
+{
+    color: white;
+}
+
+#ssn-eng{
+    font-family: 'Acme', sans-serif;
+    font-size: 60px;
+    position: relative;
+    top: 240px;
+}
+
+#ssn-kor{
+    font-family: 'Gugi', cursive;
+    font-size: 80px;
+    position: relative;
+    top: 180px;
+}
+
+#dream-kor{
+    font-family: 'Gugi', cursive;
+    position: relative;
+    font-size: 50px;
+    top: 10px;
+    opacity: 50%;
+}
+
+#dream-eng{
+    font-family: 'Acme', sans-serif;
+    position: relative;
+    top: 5px;
+    font-size: 30px;
+    opacity: 50%;
+
+}
+
+.container{
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    left: 0;
+    top: 100vh;
+    text-align: center;
+    background-color: black;
+    margin: 0%;
+    z-index: 0;
+}
+
+video{
+    position: relative;
+    width: 80vw;
+    margin: 0;
+    top: 10vh;
+    z-index: 0;
+}
+
+#circle1{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 3;
+    background-color: red;
+}
+
+#circle2{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 3;
+    background-color: blue;
+}
+
+
+#circle3{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 2;
+    background-color: rgb(185, 250, 100);
+}
+
+#rectangle1{
+    width: 30px;
+    height: 100px;
+    position:absolute;
+    background-color: blueviolet;
+    top: 100px;
+    left: 900px;
+    z-index: 10;
+}
+
+#rectangle2{
+    width: 30px;
+    height: 100px;
+    position:absolute;
+    background-color: pink;
+    top: 200px;
+    left: 200px;
+    z-index: 10;
+}
+
+#rectangle3{
+    width: 900px;
+    height: 30px;
+    position:absolute;
+    background-color: greenyellow;
+    top: 900px;
+    left: 500px;
+    z-index: 10;
+}
+
+p{
+    color: white;
+}
+
+img {
+    z-index: 11;
+}
+
+#yellow{
+    position:absolute;
+    left: 1010px;
+    top: 400px;
+    width: 10%;
+    z-index: 12;
+}
+
+#box{
+    position: absolute;
+    left: 800px;
+    top: 600px;
+    width: 30%;
+}
+
+#box2{
+    position: absolute;
+    left: 540px;
+    top: 300px;
+    width: 10%;
+}
+
+#box3{
+    position: absolute;
+    left: 990px;
+    top: 30px;
+    width: 10%;
+}
+
+#house{
+    position: absolute;
+    left: 300px;
+    top: 900px;
+    width: 40%;
+}
+
+#house2{
+    position: absolute;
+    left: 300px;
+    top: 500px;
+    width: 15%;
+}
+
+#house3{
+    position: absolute;
+    left: 630px;
+    top: 270px;
+    width: 10%;
+}
+
+#house4{
+    position: absolute;
+    left: 1200px;
+    top: 50px;
+    width: 15%;
+}
+
+#person{
+    position: absolute;
+    left: 300px;
+    top: 900px;
+    width: 10%;
+}
+
+#person2{
+    position: absolute;
+    left: 900px;
+    top: 30px;
+    width: 15%;
+}
+
+#person3{
+    position: absolute;
+    left: 350px;
+    top: 100px;
+    width: 15%;
+}
+
+#person4{
+    position: absolute;
+    left: 1050px;
+    top: 200px;
+    width: 25%;
+}
+
+#person5{
+    position: absolute;
+    left: 1050px;
+    top: 1100px;
+    width: 25%;
+}
+
+#ribbon{
+    position:absolute;
+    left: 300px;
+    top: 300px;
+    width: 10%;
+}
+
+
+#rod{
+    position: absolute;
+    left: 900px;
+    top: 1300px;
+    width: 15%;
+    z-index: 31;
+}
+
+#circle-1{
+    position: absolute;
+    left: 600px;
+    top: 300px;
+    width: 30%;
+    z-index: 9;
+}
+
+#circle-2{
+    position: absolute;
+    left: 980px;
+    top: 100px;
+    width: 20%;
+    z-index: 9;
+}
+
+#pattern{
+    position: absolute;
+    left:30px;
+    top: 1200px;
+    width: 30%;
+}
+
+#lady{
+    position: absolute;
+    left: 50px;
+    top: 300px;
+    width: 15%;
+    z-index: 8;
+}
+
+#man{
+    position: absolute;
+    left: 700px;
+    top: 890px;
+    width: 15%;
+    z-index: 30;
+}
+
+#a{
+    position: absolute;
+    left: 700px;
+    top: 890px;
+    width: 25%;
+    z-index: 3;
+}
+
+#b{
+    position: absolute;
+    left: 600px;
+    top: 20px;
+    width: 20%;
+    z-index: 6;
+}
+
+#c{
+    position: absolute;
+    left: 100px;
+    top: 20px;
+    width: 20%;
+    z-index: 6;
+}
